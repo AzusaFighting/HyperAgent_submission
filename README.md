@@ -10,8 +10,6 @@ The released source includes:
 - DAG-plan generation from the retrieved context;
 - plan parsing, reporting, and optional blind plan comparison.
 
-No AppWorld data, API documentation, model checkpoints, experiment traces, cached responses, or evaluation results are included in this archive.
-
 ## Setup
 
 Create a Python environment and install the dependencies:
